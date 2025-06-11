@@ -53,4 +53,4 @@ Proyek ini menggunakan:
 
 Dikembangkan oleh **IkbalGumilar**  
 📧 Email: *ikbalgumilar2@gmail.com*  
-🌐 GitHub: *(akan ditambahkan)*
+🌐 GitHub: *https://github.com/IkbalGumilar*
