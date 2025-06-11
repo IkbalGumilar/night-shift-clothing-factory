@@ -1,7 +1,7 @@
 
 # 🏭 Night Shift at Clothing Factory
 
-**Night Shift at Clothing Factory** adalah game prototipe 3D ber-genre FPS survival. Pemain berperan sebagai karyawan lama di sebuah pabrik garmen misterius. Di tengah malam, rutinitas berubah mencekam saat sang atasan—yang ternyata buronan pembunuh—muncul dan mulai memburu Anda.
+**Night Shift at Clothing Factory** adalah game prototipe 3D ber-genre FPS survival Horror. Pemain berperan sebagai karyawan lama di sebuah pabrik garmen misterius. Di tengah malam, rutinitas berubah mencekam saat sang atasan—yang ternyata buronan pembunuh—muncul dan mulai memburu Anda.
 
 Dirancang sebagai eksperimen sistem AI dan mekanik gameplay dalam Unity, proyek ini menitikberatkan pada logika dasar survival horror dengan pendekatan minimalis.
 
@@ -11,7 +11,7 @@ Dirancang sebagai eksperimen sistem AI dan mekanik gameplay dalam Unity, proyek 
 - AI musuh yang mampu mengejar pemain secara dinamis
 - Sistem stamina untuk membatasi gerakan lari
 - Sistem inventory sederhana
-- Kontrol FPS klasik (keyboard + mouse)
+- Kontrol FPS klasik keyboard + mouse dan Gamepad/Joystick
 
 ---
 
@@ -26,7 +26,7 @@ Dirancang sebagai eksperimen sistem AI dan mekanik gameplay dalam Unity, proyek 
 
 1. **Clone repository** ini ke lokal:
    ```bash
-   git clone https://github.com/username/night-shift-clothing-factory.git
+   git clone https://github.com/ikbalgumilar/night-shift-clothing-factory.git
    ```
 2. Buka proyek melalui **Unity Hub**, pastikan menggunakan **Unity versi 6**
 3. Masuk ke folder `Scenes` dan buka scene **MainMenu** atau langsung **MainGame**
