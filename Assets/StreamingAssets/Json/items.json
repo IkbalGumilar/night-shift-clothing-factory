@@ -1,0 +1,107 @@
+{
+  "KeyItems": {
+      "KeyHouse": {
+          "id": 1,
+          "nama": "Kunci Rumah",
+          "kategori": "Kunci",
+          "deskripsi": "Sebuah kunci tua berkarat yang tampaknya telah digunakan bertahun-tahun. Gagangnya penuh dengan goresan, mungkin karena sering dimasukkan ke dalam lubang kunci yang salah. Terlihat ada sedikit karat di bagian ujungnya, tetapi sepertinya masih bisa digunakan untuk membuka sesuatu.",
+          "ikon": "Icons/key_house.png",
+          "modelPath": "Models/key_house.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "KeyWarehouse": {
+          "id": 2,
+          "nama": "Kunci Gudang",
+          "kategori": "Kunci",
+          "deskripsi": "Sebuah kunci besar dan berat dengan logo perusahaan yang sudah pudar di permukaannya. Meskipun terlihat usang, mekanismenya tampaknya masih berfungsi dengan baik. Mungkin ini digunakan untuk membuka gudang penyimpanan yang sudah lama tidak digunakan.",
+          "ikon": "Icons/key_warehouse.png",
+          "modelPath": "Models/key_warehouse.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "KeyDrawer": {
+          "id": 3,
+          "nama": "Kunci Laci",
+          "kategori": "Kunci",
+          "deskripsi": "Sebuah kunci kecil dengan kepala berbentuk unik. Terlihat bersih dan lebih baru dibandingkan kunci lainnya, seolah-olah seseorang baru saja meletakkannya di sini. Sepertinya ini cocok untuk sebuah laci kecil yang menyimpan sesuatu penting.",
+          "ikon": "Icons/key_drawer.png",
+          "modelPath": "Models/key_drawer.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      }
+  },
+  "ToolsItems": {
+      "Crowbar": {
+          "id": 1,
+          "nama": "Linggis",
+          "kategori": "Alat",
+          "deskripsi": "Linggis besi yang cukup berat dan terlihat sudah sering digunakan. Ujungnya sedikit melengkung dan ada noda kering yang tidak jelas apakah itu karat atau sesuatu yang lain. Alat ini sangat berguna untuk mencongkel sesuatu yang terkunci atau tertutup rapat.",
+          "ikon": "Icons/crowbar.png",
+          "modelPath": "Models/crowbar.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "Pliers": {
+          "id": 2,
+          "nama": "Tang",
+          "kategori": "Alat",
+          "deskripsi": "Tang tua dengan pegangan yang sudah aus, mungkin karena terlalu sering digunakan. Masih cukup kuat untuk memotong kawat atau membuka sesuatu yang dikunci dengan kawat besi. Ada bercak kecil yang tampaknya adalah bekas minyak pelumas.",
+          "ikon": "Icons/pliers.png",
+          "modelPath": "Models/pliers.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "Hammer": {
+          "id": 3,
+          "nama": "Palu",
+          "kategori": "Alat",
+          "deskripsi": "Palu besi dengan gagang kayu yang mulai retak. Tampaknya sudah cukup tua dan sering digunakan, tetapi masih kokoh untuk menghancurkan benda yang rapuh atau menancapkan paku. Ada sedikit noda merah di ujungnya, mungkin cat… atau sesuatu yang lain.",
+          "ikon": "Icons/hammer.png",
+          "modelPath": "Models/hammer.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      }
+  },
+  "PuzzleItems": {
+      "Fuse": {
+          "id": 1,
+          "nama": "Sekering",
+          "kategori": "Puzzle",
+          "deskripsi": "Sekering listrik yang masih dalam kondisi baik. Kaca pelindungnya sedikit berdebu, tetapi tidak ada tanda-tanda terbakar di bagian dalamnya. Jika dipasang di tempat yang benar, mungkin bisa mengembalikan aliran listrik yang terputus.",
+          "ikon": "Icons/fuse.png",
+          "modelPath": "Models/fuse.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "Gasoline": {
+          "id": 2,
+          "nama": "Bensin",
+          "kategori": "Puzzle",
+          "deskripsi": "Jerigen kecil berisi bensin. Cairan di dalamnya masih cukup banyak dan terlihat segar. Mungkin bisa digunakan untuk sesuatu yang membutuhkan bahan bakar, seperti generator atau kendaraan. Aroma bensinnya cukup menyengat, sebaiknya berhati-hati saat membawanya.",
+          "ikon": "Icons/gasoline.png",
+          "modelPath": "Models/gasoline.prefab",
+          "canBeUsed": true,
+          "canBeCombined": false,
+          "combineWith": []
+      },
+      "Medallion": {
+          "id": 3,
+          "nama": "Medalion",
+          "kategori": "Puzzle",
+          "deskripsi": "Sebuah medalion tua dengan ukiran aneh di permukaannya. Benda ini terasa berat dan dingin saat disentuh. Ada celah kecil di bagian belakangnya, seolah-olah sesuatu bisa dimasukkan ke dalamnya. Sepertinya benda ini memiliki arti penting dalam sejarah tempat ini.",
+          "ikon": "Icons/medallion.png",
+          "modelPath": "Models/medallion.prefab",
+          "canBeUsed": false,
+          "canBeCombined": false,
+          "combineWith": []
+      }
+  }
+}
