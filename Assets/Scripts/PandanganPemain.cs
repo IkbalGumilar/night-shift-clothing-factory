@@ -168,7 +168,7 @@ public class PandanganPemain : MonoBehaviour
             return;
 
         float tinggiController = pergerakanPemain.GetComponent<CharacterController>().height;
-        float targetY = tinggiController / 2f; // Posisikan kamera di tengah karakter
+        float targetY = tinggiController / 2f;
 
         Vector3 posisiKamera = kameraPemain.transform.localPosition;
         posisiKamera.y = Mathf.Lerp(posisiKamera.y, targetY, Time.deltaTime * 10f);
